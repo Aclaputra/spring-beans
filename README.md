@@ -8,7 +8,7 @@ How Spring boot beans works behind the scene
 | 1  | [Inversion of Control](#inversion-of-control)        | 
 | 2  | [Test Driven Development](#test-driven-development)  |
 
-## 📖 getting started
+## 🦫 getting started
 |    |              class                                   |         test              |
 |----|------------------------------------------------------|---------------------------|
 | 1  | [SimpleConfiguration](https://github.com/Aclaputra/spring-beans/blob/main/src/main/java/com/belajar/springdasar/HelloWorldConfiguration.java)     | [ApplicationContextTest](https://github.com/Aclaputra/spring-beans/blob/main/src/test/java/com/belajar/springdasar/ApplicationContextTest.java)                           
