@@ -1,2 +1,10 @@
-package com.belajar.springdasar.data.cyclic;public class CyclicC {
+package com.belajar.springdasar.data.cyclic;
+
+import lombok.AllArgsConstructor;
+import lombok.Data;
+
+@Data
+@AllArgsConstructor
+public class CyclicC {
+    private CyclicA cyclicA;
 }
