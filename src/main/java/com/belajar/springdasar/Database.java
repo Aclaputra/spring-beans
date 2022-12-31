@@ -1,5 +1,8 @@
 package com.belajar.springdasar;
 
+/**
+ * how singleton works
+ */
 public class Database {
 
   private static Database database;
