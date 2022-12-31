@@ -13,4 +13,5 @@ public class ApplicationContextTest {
 
     Assertions.assertNotNull(context);
   }
+
 }
