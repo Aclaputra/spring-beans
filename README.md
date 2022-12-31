@@ -3,9 +3,11 @@
 How Spring boot beans works behind the scene
 
 ## 📖 basic knowledge
-1. [Inversion of Control](#inversion-of-control)
-2. [Application Context](#application-context)
-3. [Test Driven Development](#test-driven-development)
+|    |                                                      |
+|----|------------------------------------------------------|
+| 1  | [Inversion of Control](#inversion-of-control)        | 
+| 2  | [Application Context](#application-context)          |
+| 3  | [Test Driven Development](#test-driven-development)  |
 
 ### Inversion of Control
 ### Application Context
