@@ -10,5 +10,7 @@ How Spring boot beans works behind the scene
 | 3  | [Test Driven Development](#test-driven-development)  |
 
 ### Inversion of Control
+Inversion of Control is a principle in software engineering which transfers the control of objects or portions of a program to a container or framework. We most often use it in the context of object-oriented programming.
+
 ### Application Context
 ### Test Driven Development
