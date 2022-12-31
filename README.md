@@ -8,6 +8,12 @@ How Spring boot beans works behind the scene
 | 1  | [Inversion of Control](#inversion-of-control)        | 
 | 2  | [Test Driven Development](#test-driven-development)  |
 
+## 📖 getting started
+|    |              class                                   |         test              |
+|----|------------------------------------------------------|---------------------------|
+| 1  | [SimpleConfiguration](https://github.com/Aclaputra/spring-beans/blob/main/src/main/java/com/belajar/springdasar/HelloWorldConfiguration.java)     | [ApplicationContextTest](https://github.com/Aclaputra/spring-beans/blob/main/src/test/java/com/belajar/springdasar/ApplicationContextTest.java)                           
+
+
 ### Inversion of Control 
 Inversion of Control is a principle in software engineering which transfers the control of objects or portions of a program to a container or framework. We most often use it in the context of object-oriented programming.
 
