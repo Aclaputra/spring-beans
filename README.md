@@ -1,6 +1,6 @@
 # spring beans
 <img src="https://spring.io/images/spring-logo-2022-dark-2f10e8055653ec50e693eb444291d742.svg" width="300px"/>
-How Spring boot beans works behind the scene
+How Spring boot beans works behind the scene.
 
 ## 📖 basic knowledge
 |    |                                                      |
@@ -8,10 +8,20 @@ How Spring boot beans works behind the scene
 | 1  | [Inversion of Control](#inversion-of-control)        | 
 | 2  | [Test Driven Development](#test-driven-development)  |
 
-## 🦫 getting started
+## 🌱  getting started
 |    |              class                                   |         test              |
 |----|------------------------------------------------------|---------------------------|
-| 1  | [SimpleConfiguration](https://github.com/Aclaputra/spring-beans/blob/main/src/main/java/com/belajar/springdasar/HelloWorldConfiguration.java)     | [ApplicationContextTest](https://github.com/Aclaputra/spring-beans/blob/main/src/test/java/com/belajar/springdasar/ApplicationContextTest.java)                           
+| 1  | [Configuration](https://github.com/Aclaputra/spring-beans/blob/main/src/main/java/com/belajar/springdasar/HelloWorldConfiguration.java)     | [Application Context Test](https://github.com/Aclaputra/spring-beans/blob/main/src/test/java/com/belajar/springdasar/ApplicationContextTest.java)  | 
+| 2  | [Singleton](https://github.com/Aclaputra/spring-beans/blob/main/src/main/java/com/belajar/springdasar/Database.java) | [Singleton Test](https://github.com/Aclaputra/spring-beans/blob/main/src/test/java/com/belajar/springdasar/DatabaseTest.java) |
+| 4  | [Bean Configuration](https://github.com/Aclaputra/spring-beans/blob/main/src/main/java/com/belajar/springdasar/BeanConfiguration.java) | [Bean Test](https://github.com/Aclaputra/spring-beans/blob/main/src/test/java/com/belajar/springdasar/BeanTest.java) |
+| 5  |
+| 6  |
+| 7  |
+| 8  |
+| 9  |
+| 10  |
+
+
 
 
 ### Inversion of Control 
