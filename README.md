@@ -11,9 +11,9 @@ How Spring boot beans works behind the scene
 ## 🦫 getting started
 |    |              class                                   |         test              |
 |----|------------------------------------------------------|---------------------------|
-| 1  | [Configuration](https://github.com/Aclaputra/spring-beans/blob/main/src/main/java/com/belajar/springdasar/HelloWorldConfiguration.java)     | [ApplicationContextTest](https://github.com/Aclaputra/spring-beans/blob/main/src/test/java/com/belajar/springdasar/ApplicationContextTest.java)  | 
-| 2  | [SingleTon](https://github.com/Aclaputra/spring-beans/blob/main/src/main/java/com/belajar/springdasar/Database.java) | [SingleTonTest](https://github.com/Aclaputra/spring-beans/blob/main/src/test/java/com/belajar/springdasar/DatabaseTest.java) |
-| 4  |
+| 1  | [Configuration](https://github.com/Aclaputra/spring-beans/blob/main/src/main/java/com/belajar/springdasar/HelloWorldConfiguration.java)     | [Application Context Test](https://github.com/Aclaputra/spring-beans/blob/main/src/test/java/com/belajar/springdasar/ApplicationContextTest.java)  | 
+| 2  | [Singleton](https://github.com/Aclaputra/spring-beans/blob/main/src/main/java/com/belajar/springdasar/Database.java) | [Singleton Test](https://github.com/Aclaputra/spring-beans/blob/main/src/test/java/com/belajar/springdasar/DatabaseTest.java) |
+| 4  | [Bean Configuration](https://github.com/Aclaputra/spring-beans/blob/main/src/main/java/com/belajar/springdasar/BeanConfiguration.java) | [Bean Test](https://github.com/Aclaputra/spring-beans/blob/main/src/test/java/com/belajar/springdasar/BeanTest.java) |
 | 5  |
 | 6  |
 | 7  |
